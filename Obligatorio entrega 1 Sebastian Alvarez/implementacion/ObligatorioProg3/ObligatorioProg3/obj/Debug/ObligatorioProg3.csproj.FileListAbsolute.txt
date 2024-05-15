@@ -1,0 +1,7 @@
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\bin\Debug\ObligatorioProg3.exe.config
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\bin\Debug\ObligatorioProg3.exe
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\bin\Debug\ObligatorioProg3.pdb
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\obj\Debug\ObligatorioProg3.csproj.AssemblyReference.cache
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\obj\Debug\ObligatorioProg3.csproj.CoreCompileInputs.cache
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\obj\Debug\ObligatorioProg3.exe
+C:\Users\Seba\source\repos\ObligatorioProg3\ObligatorioProg3\obj\Debug\ObligatorioProg3.pdb
